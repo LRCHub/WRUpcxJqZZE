@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蒼天の果てに",
+  "base_artist": "AK-69",
+  "createdAt": "2026-02-12T14:39:28.438779Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蒼天の果てに feat. CITY-ACE",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_蒼天の果てに_feat._CITY-ACE_AK-69.txt"
+    }
+  ]
+}
